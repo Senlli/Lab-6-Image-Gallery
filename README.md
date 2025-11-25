@@ -9,28 +9,23 @@ The gallery automatically generates thumbnail images, updates the main displayed
 
 ## 📁 Project Structure
 
-Lab 6 Files Start/
-│
-├── css/
-│   ├── gallery.css
-│   ├── normalize.css
-│   └── style.css
-│
-├── images/
-│   ├── pic1.jpg
-│   ├── pic2.jpg
-│   ├── pic3.jpg
-│   ├── pic4.jpg
-│   └── pic5.jpg
-│
-├── js/
-│   └── gallery.js
-│
-├── gallery.html
-├── assignment2.html
-├── events.html
-├── events2.html
-└── submit.html
+- css/
+  - gallery.css  
+  - normalize.css  
+  - style.css  
+- images/
+  - pic1.jpg  
+  - pic2.jpg  
+  - pic3.jpg  
+  - pic4.jpg  
+  - pic5.jpg  
+- js/
+  - gallery.js  
+- gallery.html  
+- assignment2.html  
+- events.html  
+- events2.html  
+- submit.html
 
 ---
 
